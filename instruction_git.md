@@ -15,3 +15,19 @@ For creating (initializing) the local repositorium it's necessery to type in ter
 Чтобы проверить состояние репозтория используют команду
 
      git status
+
+git add
+
+git commit
+
+git commid -m
+
+git commid -a
+
+git commit -am
+
+git log
+
+git checkout
+
+git diff
