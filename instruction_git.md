@@ -39,10 +39,13 @@ For creating (initializing) the local repositorium it's necessery to type in ter
 
 Название вводится после пробела в " "
 
-*
-git commit -a
+*Чтобы одновременно добавить файл в репозиторий и записать изменение используют команду
 
-git commit -am
+  git commit -a
+
+*Чтобы одновременно добавить файл в репозиторий, сохранить изменнеие и присвоить ему название используют команду
+  
+  git commit -am
 
 git log
 
