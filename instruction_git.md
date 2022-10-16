@@ -59,10 +59,18 @@ For creating (initializing) the local repositorium it's necessery to type in ter
 
   git log --oneline-- all
 
-git checkout
-  позволяет выбрать сохранение, набрав его название
 
-git checkout master
+## Перемещение между версиями 
+Чтобы переместиться в конкретную запись сохранения используют команду:
+
+    git checkout
+  
+  и ввести 4 символа версии, к которой нужно обартиться
+
+* Чтобы вернутся в актуальную версию используют команду
+
+    git checkout master
+    
   позволяет вернутся на текущее сохранение
 git diff
 git diff @@@@ @@@@
