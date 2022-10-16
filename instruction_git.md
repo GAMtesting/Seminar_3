@@ -48,6 +48,7 @@ For creating (initializing) the local repositorium it's necessery to type in ter
   git commit -am
 
 ## Вывод перечная записей сохраненных состояний 
+
  Чтобы увидеть список сохраненных состояний файла перед просматриваемым необходимо ввести команду: 
 
     git log
@@ -61,6 +62,7 @@ For creating (initializing) the local repositorium it's necessery to type in ter
 
 
 ## Перемещение между версиями 
+
 Чтобы переместиться в конкретную запись сохранения используют команду:
 
     git checkout
@@ -70,7 +72,15 @@ For creating (initializing) the local repositorium it's necessery to type in ter
 * Чтобы вернутся в актуальную версию используют команду
 
     git checkout master
-    
-  позволяет вернутся на текущее сохранение
-git diff
-git diff @@@@ @@@@
+
+## Сравнение версий
+
+Чтобы просмотреть отличия текущей версии от предыдущей следует ввести команду:
+
+    git diff
+
+* Чтобы сравнить версии файлом между собой используют команду:
+
+      git diff @@@@ @@@@
+
+    где @@@@ - первые 4 символа хэш-номера сравниваемых версий
