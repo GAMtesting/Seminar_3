@@ -2,7 +2,7 @@
 
 ## What is Git
 
-~~Here we should type what is Git~~
+~~git - это утилита, которая позволяет сохранять версии файла и переходить между ними~~
 
 ## Creation of the local repositorium
 
