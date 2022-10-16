@@ -35,11 +35,12 @@ For creating (initializing) the local repositorium it's necessery to type in ter
 
 * Чтобы ввести описании сохраняемой версии сразу в терминале используют команду
 
-  git commid -m
+  git commit -m
 
 Название вводится после пробела в " "
 
-git commid -a
+*
+git commit -a
 
 git commit -am
 
