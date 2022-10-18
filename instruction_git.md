@@ -88,4 +88,8 @@ For creating (initializing) the local repositorium it's necessery to type in ter
 
     * Добавление картинки
 
-    ![Картинка не видна](IMG_6737.JPG)S
+    ![Картинка не видна](IMG_6737.JPG)
+
+    # Ветвление
+
+    Ветвления нужны для
