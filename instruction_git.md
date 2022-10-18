@@ -92,4 +92,8 @@ For creating (initializing) the local repositorium it's necessery to type in ter
 
     # Ветвление
 
-    Ветвления нужны для
+    Ветвления нужны для ...
+
+    ## Создание новой ветки
+
+    Для того, чтобы создать новую ветку необходимо ...
