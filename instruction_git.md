@@ -125,4 +125,5 @@ For creating (initializing) the local repositorium it's necessery to type in ter
         где @@@@ - имя ветки, которая добавляется в активную ветку.
         
 
-        
+    добавление для проверки отображения слияния в графической форме
+     
