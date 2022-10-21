@@ -129,4 +129,14 @@ For creating (initializing) the local repositorium it's necessery to type in ter
    "-" красного цвета, отражаюшие удаления без конфликтов.
 
     В случае слияния с конфликтом будет предложено выбрать
-    одно из дальнейших действий: 
+    одно из дальнейших действий:
+
+    1. accept current change
+
+    2. accept incoming change
+
+    3. accept both change
+
+    4. compare
+    
+     
