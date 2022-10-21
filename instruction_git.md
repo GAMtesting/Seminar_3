@@ -145,3 +145,11 @@ For creating (initializing) the local repositorium it's necessery to type in ter
 
   
     
+    одно из дальнейших действий: 
+
+    ### Просмотр дерева веток
+
+    Для того, чтобы увидеть соотношение веток в графической форме используют команду
+
+      git log --graph
+      
