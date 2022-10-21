@@ -90,9 +90,9 @@ For creating (initializing) the local repositorium it's necessery to type in ter
 
     ![Картинка не видна](IMG_6737.JPG)
 
-    ## Ветвление
+## Ветвление
 
-    Ветвления нужны для ...
+  Ветвления нужны для ...
 
     ### Создание новой ветки
 
