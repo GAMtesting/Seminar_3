@@ -140,3 +140,6 @@ For creating (initializing) the local repositorium it's necessery to type in ter
     4. compare
     
      
+
+    Добавленное в ранее слитую ветку останется только в ней и потребует повторного слияния.
+    
