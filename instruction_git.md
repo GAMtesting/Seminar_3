@@ -150,3 +150,6 @@ For creating (initializing) the local repositorium it's necessery to type in ter
       git log --graph
       
 ## Удаленные репозитории
+
+Удаленные репозитории нужны для удаленной работы и/или совместной работы.
+
