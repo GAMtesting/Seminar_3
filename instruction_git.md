@@ -154,6 +154,7 @@ For creating (initializing) the local repositorium it's necessery to type in ter
 Удаленные репозитории нужны для удаленной работы и/или совместной работы.
 
 ### Выгрузка репозитория
+
 Для того, чтобы сделать выгрузку из другого репозитория используют команду
 
     git clone @@@@
@@ -168,4 +169,10 @@ For creating (initializing) the local repositorium it's necessery to type in ter
 
     git push
 
-### ВЫг
+### Выгрузка из удаленного репозитория
+
+Для того, чтобы выгрузить в локальный репозиторий изменения, сделанные в удаленном репозитории, используют комаду
+
+    git pull
+
+    
