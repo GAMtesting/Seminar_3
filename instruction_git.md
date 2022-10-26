@@ -175,4 +175,4 @@ For creating (initializing) the local repositorium it's necessery to type in ter
 
     git pull
 
-    
+При загрузке git log изменения сделанные в удаленном  и в локальном репозититорях имеют разные цвета.
